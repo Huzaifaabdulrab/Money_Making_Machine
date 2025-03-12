@@ -57,3 +57,5 @@ This app depends on a local API running at `http://127.0.0.1:8000`. Ensure your 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
+## Live Demo
+click(https://makingmachine.streamlit.app/)
